@@ -1,7 +1,4 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Vet_Clinic_Database_Audit
 
 ## Getting Started
 
@@ -12,28 +9,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <!-- TABLE OF CONTENTS -->
 
@@ -63,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Vet Clinic] <a name="about-project"></a>
 
-**[Vet Clinic]** is a PostgreSQL database project which can show the animals including their properties
+**[Vet Clinic Database Audit]** is a PostgreSQL database that contains information on animals, their owners, the vets and visitations.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -87,8 +62,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Animals table to store information ]**
-- **[Insert and Query data in SQL ]**
+- **[Database]**
+- **[Database_queries]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,8 +94,8 @@ In order to run this project you need:
 Clone this repository to your desired folder by running the following commands in your terminal:
 
 ```sh
-  cd your prefered-folder-name
-  git clone git@github.com/tsheporamantso/Vet-Clinic.git
+  cd your preferred-folder-name
+  git clone git@github.com:tsheporamantso/vet_clinic_audit.git
 ```
 
 ### Install
@@ -143,6 +118,12 @@ To run the project, execute the following command: Run SQL commands in queries.s
 - Twitter: [@ramgt001](https://twitter.com/ramgt001)
 - LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
 
+👤 **Benson Njuguna Kamau**
+
+- GitHub: [@bennyjoez](https://github.com/bennyjoez)
+- Twitter: [@bennyjoezz](https://twitter.com/bennyjoezz)
+- LinkedIn: [Benson Njuguna Kamau](https://www.linkedin.com/in/bennyjoez/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -163,7 +144,7 @@ To run the project, execute the following command: Run SQL commands in queries.s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/tsheporamantso/Vet-Clinic/issues).
+Feel free to check the [issues page](https://github.com/tsheporamantso/vet_clinic_audit/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +152,7 @@ Feel free to check the [issues page](https://github.com/tsheporamantso/Vet-Clini
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please follow us on github & twitter and also connect on Linkedin.
+If you like this project please give a star on [github](https://github.com/tsheporamantso/vet_clinic_audit) & follow us on [twitter](https://twitter.com/ramgt001) and also connect on [Linkedin](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,8 +174,6 @@ I would like to thank:
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/tsheporamantso/vet_clinic_audit/blob/7c13862824907907715945d329896c429d1e9e95/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

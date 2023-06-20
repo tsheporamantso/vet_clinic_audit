@@ -36,9 +36,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic] <a name="about-project"></a>
+# 📖 Vet Clinic Database Audit <a name="about-project"></a>
 
-**[Vet Clinic Database Audit]** is a PostgreSQL database that contains information on animals, their owners, the vets and visitations.
+**Vet Clinic Database Audit** is a PostgreSQL database that contains information on animals, their owners, the vets and visitations.
+
+![Alt text](<Screenshot from 2023-06-20 13-28-44.png>)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,8 +64,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-- **[Database]**
-- **[Database_queries]**
+- **Database**
+- **Database queries**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
